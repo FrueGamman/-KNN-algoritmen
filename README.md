@@ -1,7 +1,7 @@
 # -KNN-algoritmen
 Steg-for-steg implementering av K-Nearest Neighbors (KNN) algoritmen for a predikerer diabetes 
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/af780400-38f4-4367-a83e-e6326c2549b7">
-Based on your request and the current content of the README.md file, here is an expanded version of your README:
+
 
 ---
 
